@@ -30,5 +30,9 @@ This is a simple Python-based SAT scores management system that allows users to:
    ```bash
    git clone https://github.com/your-username/sat-scores-management.git
 
-2.cd sat-scores-management
-3.python3 sat_scores.py
+2. Navigate to directory 
+   ```bash
+   cd sat-scores-management
+3. Run script
+   ```bash
+   python3 sat_scores.py
